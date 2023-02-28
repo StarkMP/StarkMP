@@ -1,5 +1,8 @@
 ### Welcome to my Github profile 👋
 
+- Frontend developer ✅
+- 4 years of frontend experience ✅
+
 #### Main technologies:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
