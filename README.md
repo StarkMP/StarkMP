@@ -2,6 +2,7 @@
 
 - Frontend developer ✅
 - 4+ years of frontend experience ✅
+- Road to Fullstack ✅
 
 #### Primary skills:
 
