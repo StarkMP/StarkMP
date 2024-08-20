@@ -1,10 +1,10 @@
+![Profile](https://starkmp.vercel.app/opengraph-image_1.jpg)
+
 ### Welcome to my Github profile 👋
 
 - Frontend developer ✅
 - 5+ years of frontend experience ✅
 - Road to Fullstack ✅
-
-![Profile](https://starkmp.vercel.app/opengraph-image_1.jpg)
 
 > WEBSITE: https://starkmp.vercel.app
 
