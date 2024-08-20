@@ -4,6 +4,8 @@
 - 5+ years of frontend experience ✅
 - Road to Fullstack ✅
 
+![Profile](https://starkmp.vercel.app/opengraph-image_1.jpg)
+
 > WEBSITE: https://starkmp.vercel.app
 
 #### Primary skills:
