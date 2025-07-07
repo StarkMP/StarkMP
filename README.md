@@ -4,7 +4,6 @@
 
 - Frontend/Fullstack developer ✅
 - 6+ years of experience ✅
-- Remote/Relocate fulltime ✅
 
 > WEBSITE: https://starkmp.vercel.app
 
