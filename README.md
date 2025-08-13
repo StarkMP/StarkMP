@@ -7,7 +7,7 @@
 
 > WEBSITE: https://starkmp.vercel.app
 
-> Owner and main developer of [Prisma UI](https://github.com/PrismaUI-SKSE)
+> Owner and main developer of [Prisma UI](https://www.prismaui.dev/)
 
 #### Primary skills:
 
