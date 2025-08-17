@@ -5,8 +5,6 @@
 - Frontend/Fullstack developer ✅
 - 6+ years of experience ✅
 
-> WEBSITE: https://starkmp.vercel.app
-
 > Owner and main developer of [Prisma UI](https://www.prismaui.dev/)
 
 #### Primary skills:
