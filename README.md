@@ -1,4 +1,4 @@
-![Profile](https://starkmp.vercel.app/opengraph-image_1.jpg)
+![Profile](https://starkmp.vercel.app/opengraph-image.jpg)
 
 ### Welcome to my Github profile 👋
 
