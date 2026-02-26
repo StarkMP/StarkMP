@@ -3,6 +3,7 @@
 ### Welcome to my Github profile 👋
 
 - Frontend/Fullstack developer ✅
+- GameDev/UI Software enjoyer ✅
 - 6+ years of experience ✅
 
 > Owner and main developer of [Prisma UI](https://www.prismaui.dev/)
