@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile 👋
 
-- Frontend/Fullstack developer ✅
+- Web developer ✅
 - GameDev/UI Software enjoyer ✅
 - 6+ years of experience ✅
 
