@@ -1,5 +1,3 @@
-![Profile](https://starkmp.vercel.app/opengraph-image.jpg)
-
 ### Welcome to my Github profile 👋
 
 - Web developer ✅
