@@ -3,7 +3,7 @@
 - Web developer ✅
 - GameDev/UI Software enjoyer ✅
 - 6+ years of experience ✅
-- Owner and main developer of [Prisma UI](https://www.prismaui.dev/)
+- Owner and main developer of [Prisma UI](https://github.com/PrismaUI-SKSE)
 - [YouTube](https://www.youtube.com/@stark_n1) with some demos
 
 #### Primary skills:
